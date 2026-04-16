@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**Yaquelin2214/Yaquelin2214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy Yaquelin Rugel 👋
 
-Here are some ideas to get you started:
+🎓 Estudiante de Ingeniería Informática en Duoc UC  
+💻 Enfocada en Backend, Bases de Datos y soluciones reales  
+🚀 Creando proyectos propios para mi portafolio profesional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 Tecnologías
+
+- Java
+- Python
+- SQL
+- MySQL
+- Oracle
+- HTML
+- CSS
+- JavaScript
+- React
+- Git / GitHub
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- Spring Boot
+- AWS Cloud
+- Microservicios
+- Testing QA
+
+---
+
+## 🚀 Proyectos en desarrollo
+
+- Sistema de Cotizaciones para Servicios Reales
+- API REST Java
+- Plataforma Web Profesional
+- Arquitectura Cloud AWS
+
+---
+
+## 📫 Contacto
+
+📧 rugelalvaradoyaquelin@gmail.com
